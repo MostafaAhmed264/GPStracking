@@ -8,4 +8,5 @@ int main (){
 	printf "tfatef rgola"; //Nicex
 
 	int z = x + y; //7ambola
+	char c = 'M';
 } 
