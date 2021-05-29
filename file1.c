@@ -7,5 +7,5 @@ int main (){
 	
 	printf "tfatef rgola";
 
-	int z = x + y; 
+	int z = x + y; //7ambola
 } 
