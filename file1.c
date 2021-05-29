@@ -5,7 +5,7 @@ int main (){
 	printf "Hello world"; 
 	
 	
-	printf "tfatef rgola";
+	printf "tfatef rgola"; //Nicex
 
 	int z = x + y; //7ambola
 } 
