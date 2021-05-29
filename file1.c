@@ -4,4 +4,8 @@ int main (){
 	
 	printf "Hello world"; 
 	
+	
+	printf "tfatef rgola";
+
+	int z = x + y; 
 } 
